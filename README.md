@@ -1,77 +1,52 @@
 # Hi there 👋
 
-Welcome to my GitHub! / Добро пожаловать на мой GitHub!
+Welcome to my GitHub! / Добро пожаловать!
 
-## 🌐 Switch Language / Выбор языка
-- [English](#english)  
-- [Русский](#русский)  
+## 🌐 Language / Язык
+- [English](#english) | [Русский](#русский)
 
 ---
 
+<a name="english"></a>
 ## English
 
 ### About Me
-I am a senior executive in an engineering design institute with over 20 years of experience in project engineering. I combine **project management**, **Python/Django development**, and **process automation** to create practical tools for engineering and business workflows.
+I have a background in **Process Engineering** and extensive experience in **engineering project management**. I specialize in bridging the gap between industrial processes and modern technology through **Python development** and **AI automation**.
 
-### Skills
-- **Programming:** Python, Django, FastAPI, SQL  
-- **AI & Prompt Engineering:** creating AI workflows and automation prompts  
-- **Nocode / Lowcode Platforms:** Airtable, Glide, Adalo, Tilda, WebFlow  
-- **Automation:** internal dashboards, reporting tools, workflow optimization  
-- **Project Management:** engineering and construction projects  
-- **Web Development:** prototypes, web apps, integrations  
+### Tech Stack & Skills
+- **Backend:** Python (Django, FastAPI), SQL, REST API
+- **AI & Automation:** Prompt Engineering, AI workflows, LangChain, LLM integration
+- **Process Optimization:** Custom dashboards, reporting tools, and business logic automation
+- **Project Management:** Industrial engineering, construction, and technical leadership
 
-### Projects
-Here on GitHub you can find examples of my work:  
-- **Python & Django applications** for engineering and business automation  
-- **AI-powered prompt automation tools**  
-- **Web apps and dashboards built with Nocode platforms**  
-- **Integrations with external services and APIs**  
-
-### Goals
-- Share code and solutions with colleagues and the wider community  
-- Showcase the power of **Python, Django, and AI automation** in engineering  
-- Explore **prompt engineering and AI-driven tools** for practical business applications  
-- Continuously learn and apply **new technologies** in development and project management  
+### Key Projects
+- **Engineering Automation:** Python & Django apps designed for industrial and business workflows.
+- **AI Solutions:** Tools leveraging LLMs for document processing and process automation.
+- **Integrations:** Building bridges between enterprise services and third-party APIs.
 
 ### Contact
-- GitHub: [github.com/AlexanderKazantsev](https://github.com/AlexanderKazantsev)  
-- LinkedIn: [linkedin.com/in/aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
-
-### Fun Fact
-I combine over **20 years of engineering project experience** with **hands-on software development**, turning complex ideas into fully automated, practical tools.
+- **LinkedIn:** [linkedin.com/in/aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
+- **GitHub:** [hmarachos](https://github.com/hmarachos)
 
 ---
 
+<a name="русский"></a>
 ## Русский
 
 ### О себе
-Я руководитель высшего звена в проектном институте с более чем 20-летним опытом в инженерном проектировании. Я совмещаю **управление проектами**, **разработку на Python/Django** и **автоматизацию процессов**, создавая практичные инструменты для инженерных и бизнес-процессов.
+Я имею образование **инженера-технолога** и обладаю большим опытом **управления инженерными проектами**. Мой фокус — трансформация классических индустриальных процессов с помощью **Python-разработки** и **AI-автоматизации**.
 
 ### Навыки
-- **Программирование:** Python, Django, FastAPI, SQL  
-- **ИИ и Промпт-инжиниринг:** создание AI-воркфлоу и автоматизационных промтов  
-- **Платформы Nocode / Lowcode:** Airtable, Glide, Adalo, Tilda, WebFlow  
-- **Автоматизация:** внутренние дашборды, инструменты отчетности, оптимизация процессов  
-- **Управление проектами:** инженерные и строительные проекты  
-- **Веб-разработка:** прототипы, веб-приложения, интеграции  
+- **Backend:** Python (Django, FastAPI), SQL, REST API
+- **AI и Автоматизация:** Промпт-инжиниринг, создание AI-воркфлоу, интеграция LLM
+- **Оптимизация процессов:** Разработка дашбордов, систем отчетности и автоматизация бизнес-логики
+- **Управление:** Руководство техническими проектами в сфере инжиниринга и строительства
 
 ### Проекты
-Здесь на GitHub вы найдете примеры моих проектов:  
-- **Python & Django приложения** для автоматизации инженерных и бизнес-процессов  
-- **Инструменты автоматизации с использованием промпт-инжиниринга и AI**  
-- **Веб-приложения и дашборды на Nocode/Lowcode платформах**  
-- **Интеграции с внешними сервисами и API**  
-
-### Цели
-- Делать код и решения доступными для коллег и сообщества  
-- Продемонстрировать возможности **Python, Django и AI** в инженерии  
-- Изучать **промпт-инжиниринг и AI-инструменты** для практических бизнес-приложений  
-- Постоянно изучать и применять **новые технологии** в разработке и управлении проектами  
+- **Автоматизация инжиниринга:** Приложения на Django/Python для проектных и бизнес-задач.
+- **AI-инструменты:** Решения на базе нейросетей для анализа данных и автоматизации рутины.
+- **Интеграции:** Создание надежных связей между корпоративными сервисами и внешними API.
 
 ### Контакты
-- GitHub: [github.com/AlexanderKazantsev](https://github.com/AlexanderKazantsev)  
-- LinkedIn: [linkedin.com/in/aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
-
-### Интересный факт
-Я совмещаю более **20 лет опыта в инженерных проектах** с **практической разработкой**, превращая сложные идеи в полностью автоматизированные, полезные инструменты.
+- **LinkedIn:** [aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
+- **GitHub:** [hmarachos](https://github.com/hmarachos)
