@@ -49,12 +49,13 @@ I have a background in **Process Engineering** and extensive experience in **eng
 ### Контакты
 - **LinkedIn:** [aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
 
-# GitHub Profile Overview for hmarachos 
-<!-- Основная статистика профиля --> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmarachos&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&locale=ru) 
+# GitHub Profile Overview for hmarachos
+<!-- Основная статистика профиля -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmarachos&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&locale=ru)
 
-<!-- Топ языков программирования --> 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarachos&layout=compact&theme=default&hide_border=false&langs_count=10)
+<!-- Топ языков программирования -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarachos&layout=compact&theme=dark&hide_border=false&langs_count=10)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+
