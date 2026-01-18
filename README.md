@@ -11,18 +11,18 @@ Welcome to my GitHub! / Добро пожаловать!
 ## English
 
 ### About Me
-I have a background in **Process Engineering** and extensive experience in **engineering project management**. I specialize in bridging the gap between processes and modern technology through **Python development** and **AI automation**.
+I have a background in **Process Engineering** and extensive experience in **engineering project management**. I focus on creating practical solutions by combining **Python development** with **automation**.
 
 ### Tech Stack & Skills
-- **Backend:** Python (Django, FastAPI), SQL, REST API
-- **AI & Automation:** Prompt Engineering, AI workflows, LangChain, LLM integration
-- **Process Optimization:** Custom dashboards, reporting tools, and business logic automation
-- **Project Management:** Industrial engineering, construction, and technical leadership
+- **Backend:** Python (Django)
+- **Frontend:** HTML, CSS, JavaScript
+- **Scripting & Automation:** PowerShell, Batch
+- **Databases:** SQL (PostgreSQL/SQLite)
+- **REST API & Process Automation**
 
 ### Key Projects
-- **Engineering Automation:** Python & Django apps designed for industrial and business workflows.
-- **AI Solutions:** Tools leveraging LLMs for document processing and process automation.
-- **Integrations:** Building bridges between enterprise services and third-party APIs.
+- **Engineering Automation:** Practical Django/Python apps for industrial and business workflows.
+- **Integrations:** Connecting enterprise services and APIs efficiently.
 
 ### Contact
 - **LinkedIn:** [linkedin.com/in/aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
@@ -33,29 +33,23 @@ I have a background in **Process Engineering** and extensive experience in **eng
 ## Русский
 
 ### О себе
-Я имею образование **инженера-технолога** и обладаю большим опытом **управления инженерными проектами**. Мой фокус — трансформация классических процессов с помощью **Python-разработки** и **AI-автоматизации**.
+Я имею образование **инженера-технолога** и большой опыт **управления инженерными проектами**. Основной фокус — создание реальных решений через **Python-разработку** и **автоматизацию процессов**.
 
 ### Навыки
-- **Backend:** Python (Django, FastAPI), SQL, REST API
-- **AI и Автоматизация:** Промпт-инжиниринг, создание AI-воркфлоу, интеграция LLM
-- **Оптимизация процессов:** Разработка дашбордов, систем отчетности и автоматизация бизнес-логики
-- **Управление:** Руководство техническими проектами в сфере инжиниринга и строительства
+- **Backend:** Python (Django)
+- **Frontend:** HTML, CSS, JavaScript
+- **Скрипты и автоматизация:** PowerShell, Batch
+- **Базы данных:** SQL
+- **REST API и автоматизация бизнес-процессов**
 
 ### Проекты
-- **Автоматизация инжиниринга:** Приложения на Django/Python для проектных и бизнес-задач.
-- **AI-инструменты:** Решения на базе нейросетей для анализа данных и автоматизации рутины.
-- **Интеграции:** Создание надежных связей между корпоративными сервисами и внешними API.
+- **Автоматизация инжиниринга:** Практичные приложения на Django/Python для проектных и бизнес-задач.
+- **Интеграции:** Надежные связки между корпоративными сервисами и внешними API.
 
 ### Контакты
 - **LinkedIn:** [aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
 
 # GitHub Profile Overview for hmarachos
-<!-- Основная статистика профиля -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmarachos&show_icons=true&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only&hide_border=false&locale=en)
 
-<!-- Топ языков программирования -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarachos&layout=compact&theme=default#gh-light-mode-only&hide_border=false&langs_count=10)
-
-
-
-
