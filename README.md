@@ -11,18 +11,19 @@ Welcome to my GitHub! / Добро пожаловать!
 ## English
 
 ### About Me
-I am a **Process Engineer and Developer** with practical experience in creating automated solutions and web applications. My focus is on applying **Python** to streamline workflows and integrate systems efficiently.
+I am a **Process Engineer and Developer** with practical experience in creating automated solutions, web applications, and database-backed projects. My focus is on applying **Python** to streamline workflows, manage data efficiently, and integrate systems.
 
 ### Tech Stack & Skills
 - **Backend:** Python (Django)
 - **Frontend:** HTML, CSS, JavaScript
 - **Scripting & Automation:** PowerShell, Batch
-- **Databases:** SQL (PostgreSQL/SQLite)
+- **Databases:** PostgreSQL, SQLite
 - **REST API & Process Automation**
 
 ### Key Projects
 - **Workflow Automation:** Python scripts and Django apps that automate engineering and business processes.
-- **Web Interfaces:** Small web applications built with HTML, CSS, and JS for reporting and dashboards.
+- **Database Projects:** Small applications with PostgreSQL and SQLite for data management and reporting.
+- **Web Interfaces:** Web apps built with HTML, CSS, and JS for dashboards and simple interfaces.
 - **Integrations:** Connecting internal tools and APIs to simplify daily tasks.
 
 ### Contact
@@ -34,18 +35,19 @@ I am a **Process Engineer and Developer** with practical experience in creating 
 ## Русский
 
 ### О себе
-Я — **инженер-технолог и разработчик**, создающий практичные решения для автоматизации процессов и веб-приложений. Основной фокус — использование **Python** для оптимизации рабочих процессов и интеграции систем.
+Я — **инженер-технолог и разработчик**, создающий практичные решения для автоматизации процессов, веб-приложений и проектов с базами данных. Основной фокус — использование **Python** для оптимизации рабочих процессов, управления данными и интеграции систем.
 
 ### Навыки
 - **Backend:** Python (Django)
 - **Frontend:** HTML, CSS, JavaScript
 - **Скрипты и автоматизация:** PowerShell, Batch
-- **Базы данных:** SQL
+- **Базы данных:** PostgreSQL, SQLite
 - **REST API и автоматизация бизнес-процессов**
 
 ### Проекты
 - **Автоматизация процессов:** Скрипты на Python и приложения на Django для упрощения инженерных и бизнес-задач.
-- **Веб-интерфейсы:** Небольшие веб-приложения для отчетности и дашбордов.
+- **Проекты с базами данных:** Приложения с PostgreSQL и SQLite для хранения и обработки данных, отчетности и дашбордов.
+- **Веб-интерфейсы:** Небольшие веб-приложения для визуализации данных и управления процессами.
 - **Интеграции:** Связка внутренних инструментов и API для оптимизации повседневной работы.
 
 ### Контакты
