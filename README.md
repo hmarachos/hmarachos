@@ -1,4 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app)
 # Hi there 👋
 
 Welcome to my GitHub! / Добро пожаловать!
@@ -49,3 +48,6 @@ I have a background in **Process Engineering** and extensive experience in **eng
 
 ### Контакты
 - **LinkedIn:** [aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
