@@ -49,9 +49,10 @@ I have a background in **Process Engineering** and extensive experience in **eng
 ### Контакты
 - **LinkedIn:** [aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
 
-# GitHub Profile Overview for hmarachos
-<!-- Основная статистика профиля -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmarachos&show_icons=true&include_all_commits=true&count_private=true&theme=light&hide_border=false&locale=ru)
+# GitHub Profile Overview for hmarachos 
+<!-- Основная статистика профиля --> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmarachos&show_icons=true&include_all_commits=true&count_private=true&theme=light&hide_border=false&locale=ru) 
 
-<!-- Топ языков программирования -->
+<!-- Топ языков программирования --> 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarachos&layout=compact&theme=light&hide_border=false&langs_count=10)
+
