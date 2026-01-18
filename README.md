@@ -51,19 +51,8 @@ I have a background in **Process Engineering** and extensive experience in **eng
 
 # GitHub Profile Overview for hmarachos 
 <!-- Основная статистика профиля --> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmarachos&show_icons=true&include_all_commits=true&count_private=true&theme=light&hide_border=false&locale=ru) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmarachos&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&locale=ru) 
 
 <!-- Топ языков программирования --> 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarachos&layout=compact&theme=light&hide_border=false&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmarachos&layout=compact&theme=default&hide_border=false&langs_count=10)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
