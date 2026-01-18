@@ -8,8 +8,7 @@ Welcome to my GitHub! / Добро пожаловать на мой GitHub!
 
 ---
 
-<details>
-<summary id="english">English 🇬🇧</summary>
+## English
 
 ### About Me
 I am a senior executive in an engineering design institute with over 20 years of experience in project engineering. I combine **project management**, **Python/Django development**, and **process automation** to create practical tools for engineering and business workflows.
@@ -43,10 +42,9 @@ Here on GitHub you can find examples of my work:
 ### Fun Fact
 I combine over **20 years of engineering project experience** with **hands-on software development**, turning complex ideas into fully automated, practical tools.
 
-</details>
+---
 
-<details>
-<summary id="русский">Русский 🇷🇺</summary>
+## Русский
 
 ### О себе
 Я руководитель высшего звена в проектном институте с более чем 20-летним опытом в инженерном проектировании. Я совмещаю **управление проектами**, **разработку на Python/Django** и **автоматизацию процессов**, создавая практичные инструменты для инженерных и бизнес-процессов.
@@ -79,5 +77,3 @@ I combine over **20 years of engineering project experience** with **hands-on so
 
 ### Интересный факт
 Я совмещаю более **20 лет опыта в инженерных проектах** с **практической разработкой**, превращая сложные идеи в полностью автоматизированные, полезные инструменты.
-
-</details>
