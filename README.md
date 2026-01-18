@@ -1,3 +1,4 @@
+![GitHub Stats](https://github-readme-stats.vercel.app)
 # Hi there 👋
 
 Welcome to my GitHub! / Добро пожаловать!
