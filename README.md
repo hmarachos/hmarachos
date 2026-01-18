@@ -36,8 +36,7 @@ Here on GitHub you can find examples of my work:
 
 ### Contact
 - GitHub: [github.com/AlexanderKazantsev](https://github.com/AlexanderKazantsev)  
-- LinkedIn: [linkedin.com/in/alexander-kazantsev](https://www.linkedin.com/in/alexander-kazantsev)  
-- Email: alexander.kazantsev@example.com  
+- LinkedIn: [linkedin.com/in/alexander-kazantsev](www.linkedin.com/in/aliaksandr-85723976)  
 
 ### Fun Fact
 I combine over **20 years of engineering project experience** with **hands-on software development**, turning complex ideas into fully automated, practical tools.
@@ -72,8 +71,7 @@ I combine over **20 years of engineering project experience** with **hands-on so
 
 ### Контакты
 - GitHub: [github.com/AlexanderKazantsev](https://github.com/AlexanderKazantsev)  
-- LinkedIn: [linkedin.com/in/alexander-kazantsev](https://www.linkedin.com/in/alexander-kazantsev)  
-- Email: alexander.kazantsev@example.com  
+- LinkedIn: [linkedin.com/in/alexander-kazantsev](www.linkedin.com/in/aliaksandr-85723976)    
 
 ### Интересный факт
 Я совмещаю более **20 лет опыта в инженерных проектах** с **практической разработкой**, превращая сложные идеи в полностью автоматизированные, полезные инструменты.
