@@ -11,7 +11,7 @@ Welcome to my GitHub! / Добро пожаловать!
 ## English
 
 ### About Me
-I have a background in **Process Engineering** and extensive experience in **engineering project management**. I specialize in bridging the gap between industrial processes and modern technology through **Python development** and **AI automation**.
+I have a background in **Process Engineering** and extensive experience in **engineering project management**. I specialize in bridging the gap between processes and modern technology through **Python development** and **AI automation**.
 
 ### Tech Stack & Skills
 - **Backend:** Python (Django, FastAPI), SQL, REST API
@@ -26,7 +26,6 @@ I have a background in **Process Engineering** and extensive experience in **eng
 
 ### Contact
 - **LinkedIn:** [linkedin.com/in/aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
-- **GitHub:** [hmarachos](https://github.com/hmarachos)
 
 ---
 
@@ -34,7 +33,7 @@ I have a background in **Process Engineering** and extensive experience in **eng
 ## Русский
 
 ### О себе
-Я имею образование **инженера-технолога** и обладаю большим опытом **управления инженерными проектами**. Мой фокус — трансформация классических индустриальных процессов с помощью **Python-разработки** и **AI-автоматизации**.
+Я имею образование **инженера-технолога** и обладаю большим опытом **управления инженерными проектами**. Мой фокус — трансформация классических процессов с помощью **Python-разработки** и **AI-автоматизации**.
 
 ### Навыки
 - **Backend:** Python (Django, FastAPI), SQL, REST API
@@ -49,4 +48,3 @@ I have a background in **Process Engineering** and extensive experience in **eng
 
 ### Контакты
 - **LinkedIn:** [aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
-- **GitHub:** [hmarachos](https://github.com/hmarachos)
