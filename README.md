@@ -11,7 +11,7 @@ Welcome to my GitHub! / Добро пожаловать!
 ## English
 
 ### About Me
-I have a background in **Process Engineering** and extensive experience in **engineering project management**. I focus on creating practical solutions by combining **Python development** with **automation**.
+I am a **Process Engineer and Developer** with practical experience in creating automated solutions and web applications. My focus is on applying **Python** to streamline workflows and integrate systems efficiently.
 
 ### Tech Stack & Skills
 - **Backend:** Python (Django)
@@ -21,8 +21,9 @@ I have a background in **Process Engineering** and extensive experience in **eng
 - **REST API & Process Automation**
 
 ### Key Projects
-- **Engineering Automation:** Practical Django/Python apps for industrial and business workflows.
-- **Integrations:** Connecting enterprise services and APIs efficiently.
+- **Workflow Automation:** Python scripts and Django apps that automate engineering and business processes.
+- **Web Interfaces:** Small web applications built with HTML, CSS, and JS for reporting and dashboards.
+- **Integrations:** Connecting internal tools and APIs to simplify daily tasks.
 
 ### Contact
 - **LinkedIn:** [linkedin.com/in/aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
@@ -33,7 +34,7 @@ I have a background in **Process Engineering** and extensive experience in **eng
 ## Русский
 
 ### О себе
-Я имею образование **инженера-технолога** и большой опыт **управления инженерными проектами**. Основной фокус — создание реальных решений через **Python-разработку** и **автоматизацию процессов**.
+Я — **инженер-технолог и разработчик**, создающий практичные решения для автоматизации процессов и веб-приложений. Основной фокус — использование **Python** для оптимизации рабочих процессов и интеграции систем.
 
 ### Навыки
 - **Backend:** Python (Django)
@@ -43,8 +44,9 @@ I have a background in **Process Engineering** and extensive experience in **eng
 - **REST API и автоматизация бизнес-процессов**
 
 ### Проекты
-- **Автоматизация инжиниринга:** Практичные приложения на Django/Python для проектных и бизнес-задач.
-- **Интеграции:** Надежные связки между корпоративными сервисами и внешними API.
+- **Автоматизация процессов:** Скрипты на Python и приложения на Django для упрощения инженерных и бизнес-задач.
+- **Веб-интерфейсы:** Небольшие веб-приложения для отчетности и дашбордов.
+- **Интеграции:** Связка внутренних инструментов и API для оптимизации повседневной работы.
 
 ### Контакты
 - **LinkedIn:** [aliaksandr-85723976](https://www.linkedin.com/in/aliaksandr-85723976/)
